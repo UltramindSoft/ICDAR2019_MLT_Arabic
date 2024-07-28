@@ -14,8 +14,8 @@ This time folders of only images (Transformed from Original Dataset) are embedde
 ![tr_img_00101](https://github.com/user-attachments/assets/fe2bbf83-c1d0-441f-a4d2-ec48c7690cf9)
 ![tr_img_00051](https://github.com/user-attachments/assets/d084ef11-8540-4258-8bbe-de90ad04a1de)
 ![tr_img_00040](https://github.com/user-attachments/assets/80ec0764-4479-49a6-a94e-11e11a52e53b)
-![tr_img_00032](https://github.com/user-attachments/assets/9365a0f0-fccc-4e54-90cf-8b58d07ed1ef)
+
 ![tr_img_00024](https://github.com/user-attachments/assets/82289965-5b39-4037-9f0e-a4e019134987)
 ![tr_img_00021](https://github.com/user-attachments/assets/b4e689d3-f37a-4c7e-990f-abab097f99b8)
-![tr_img_00015](https://github.com/user-attachments/assets/50485c58-3f04-427d-9831-adda31a834f9)
+
 ![tr_img_00003](https://github.com/user-attachments/assets/bed8e287-0d82-4565-abf7-f735461ca258)
