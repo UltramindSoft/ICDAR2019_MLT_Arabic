@@ -1,0 +1,2 @@
+# ICDAR2019_MLT_Arabic
+ICDAR2019_MLT_Arabic Dataset Versions
