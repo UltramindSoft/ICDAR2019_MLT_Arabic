@@ -3,12 +3,12 @@ ICDAR2019_MLT_Arabic Dataset Versions
 
 <b>Dear Scholars/Explorers </b>  
 
-This time folders of only images (Transformed from Original Dataset) are embedded in fixed size black background is shared, soon the .mat files for rectangular coordinates will be shared ....
+This time folders of only images (Transformed from Original Dataset) are embedded in fixed size black background is shared, soon the .mat files for rectangular coordinates + Annotation  will be shared ....
 
 ![OverView of MLT-Arabic](https://github.com/user-attachments/assets/3d9deffc-ca48-4c97-a498-72c5768774ad)
 
-![tr_img_00002](https://github.com/user-attachments/assets/d06b5ef0-533b-4cb1-89a9-5926e3c3afb6)
-![tr_img_00001](https://github.com/user-attachments/assets/9291e0e0-3cbd-4291-a0a9-58c06290df88)
+![tr_img_00002](https://github.com/user-attachments/assets/d06b5ef0-533b-4cb1-89a9-5926e3c3afb6) ![tr_img_00001](https://github.com/user-attachments/assets/9291e0e0-3cbd-4291-a0a9-58c06290df88)
+
 ![tr_img_00311](https://github.com/user-attachments/assets/8078f93a-a6f5-43d3-a0e4-004807b35cf5)
 ![tr_img_00296](https://github.com/user-attachments/assets/f5cdfc0c-0f49-44a2-86cf-6edaab8e0109)
 ![tr_img_00261](https://github.com/user-attachments/assets/94f2a3b4-5d1c-4401-b25d-cdcd004d4661)
